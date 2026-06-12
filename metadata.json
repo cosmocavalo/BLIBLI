@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Acesso - Pós-Pagamento",
+  "description": "Página de sucesso pós-pagamento com acesso imediato e seguro ao PDF e material adquirido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
